@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
 )
 
 // GetHealthResponse returns the current health of the node. A healthy node is one that is within HEALTH_CHECK_SLOT_DISTANCE slots of the latest cluster confirmed slot.

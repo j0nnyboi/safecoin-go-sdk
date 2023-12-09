@@ -3,7 +3,7 @@ package name_service
 import (
 	"crypto/sha256"
 
-	"github.com/blocto/solana-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
 )
 
 var TwitterVerificationAuthority = common.PublicKeyFromString("FvPH7PrVrLGKPfqaf3xJodFTjZriqrAXXLTVWEorTFBi")

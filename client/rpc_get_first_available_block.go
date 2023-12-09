@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
 )
 
 // GetFirstAvailableBlock returns the slot of the lowest confirmed block that has not been purged from the ledger

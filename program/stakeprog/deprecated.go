@@ -1,2 +1,2 @@
-// Deprecated: please use github.com/blocto/solana-go-sdk/program/stake
+// Deprecated: please use github.com/j0nnyboi/safecoin-go-sdk/program/stake
 package stakeprog

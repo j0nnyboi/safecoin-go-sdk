@@ -1,8 +1,8 @@
 package memo
 
 import (
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/types"
 )
 
 type BuildMemoParam struct {

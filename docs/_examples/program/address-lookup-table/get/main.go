@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/blocto/solana-go-sdk/client"
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/program/address_lookup_table"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/client"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/program/address_lookup_table"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
 )
 
 func main() {

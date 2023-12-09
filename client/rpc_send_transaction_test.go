@@ -5,9 +5,9 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/internal/client_test"
-	"github.com/blocto/solana-go-sdk/rpc"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/j0nnyboi/safecoin-go-sdk/internal/client_test"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/types"
 )
 
 func TestClient_SendTransaction(t *testing.T) {

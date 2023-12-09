@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/bincode"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/pkg/bincode"
 )
 
 var (

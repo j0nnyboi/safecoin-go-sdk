@@ -1,6 +1,6 @@
 package types
 
-import "github.com/blocto/solana-go-sdk/common"
+import "github.com/j0nnyboi/safecoin-go-sdk/common"
 
 type CompiledInstruction struct {
 	ProgramIDIndex int

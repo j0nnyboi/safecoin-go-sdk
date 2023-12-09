@@ -3,7 +3,7 @@ package token_metadata
 import (
 	"strconv"
 
-	"github.com/blocto/solana-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
 )
 
 func GetTokenMetaPubkey(mint common.PublicKey) (common.PublicKey, error) {

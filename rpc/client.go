@@ -11,9 +11,9 @@ import (
 
 const (
 	LocalnetRPCEndpoint = "http://localhost:8899"
-	DevnetRPCEndpoint   = "https://api.devnet.solana.com"
-	TestnetRPCEndpoint  = "https://api.testnet.solana.com"
-	MainnetRPCEndpoint  = "https://api.mainnet-beta.solana.com"
+	DevnetRPCEndpoint   = "https://api.devnet.safecoin.org"
+	TestnetRPCEndpoint  = "https://api.testnet.safecoin.org"
+	MainnetRPCEndpoint  = "https://api.mainnet-beta.safecoin.org"
 )
 
 type JsonRpcRequest struct {

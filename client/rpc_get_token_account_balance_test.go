@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/internal/client_test"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/internal/client_test"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
 )
 
 func TestClient_GetTokenAccountBalance(t *testing.T) {

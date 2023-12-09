@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/internal/client_test"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
+	"github.com/j0nnyboi/safecoin-go-sdk/common"
+	"github.com/j0nnyboi/safecoin-go-sdk/internal/client_test"
+	"github.com/j0nnyboi/safecoin-go-sdk/pkg/pointer"
 )
 
 func TestClient_GetClusterNodes(t *testing.T) {

@@ -4,11 +4,11 @@ import (
 	"context"
 	"log"
 
-	"github.com/blocto/solana-go-sdk/client"
-	"github.com/blocto/solana-go-sdk/program/compute_budget"
-	"github.com/blocto/solana-go-sdk/program/memo"
-	"github.com/blocto/solana-go-sdk/rpc"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/j0nnyboi/safecoin-go-sdk/client"
+	"github.com/j0nnyboi/safecoin-go-sdk/program/compute_budget"
+	"github.com/j0nnyboi/safecoin-go-sdk/program/memo"
+	"github.com/j0nnyboi/safecoin-go-sdk/rpc"
+	"github.com/j0nnyboi/safecoin-go-sdk/types"
 )
 
 // FUarP2p5EnxD66vVDL4PWRoWMzA56ZVHG24hpEDFShEz
