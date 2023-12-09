@@ -1,10 +1,10 @@
 
-<h1 align="center">Solana Go SDK</h1>
+<h1 align="center">Safecoin Go SDK</h1>
 <div align="center">
 	<img src="https://github.com/j0nnyboi/safecoin-go-sdk/actions/workflows/go.yml/badge.svg?branch=main"></img>
 	<img src="https://goreportcard.com/badge/github.com/j0nnyboi/safecoin-go-sdk"></img>
-	<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/blocto/safecoin-go-sdk">
-	<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/blocto/safecoin-go-sdk?display_name=tag">
+	<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/j0nnyboi/safecoin-go-sdk">
+	<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/j0nnyboi/safecoin-go-sdk?display_name=tag">
 </div>
 
 # Guide
@@ -52,7 +52,7 @@ func main() {
 
 ## RPC
 
-All interfaces of rpc follow the [solana's json-rpc docs](https://docs.solana.com/developing/clients/jsonrpc-api).
+All interfaces of rpc follow the [safecoin's json-rpc docs](https://docs.safecoin.org/developing/clients/jsonrpc-api).
 
 The implementation of client in this project separate into two parts, rpc and wrapped. The wrapped only returns main result value and the rpc returns whole rpc response. You can switch it by yourself for different situation. Take `getBalance` as example:
 
