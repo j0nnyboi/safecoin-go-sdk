@@ -1,4 +1,4 @@
-module github.com/jonnyboi/safecoin-go-sdk
+module github.com/j0nnyboi/safecoin-go-sdk
 
 go 1.19
 
